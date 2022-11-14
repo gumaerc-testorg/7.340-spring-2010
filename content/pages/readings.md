@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides details on the journal articles assigned as readings
+  for each lecture session of the course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -32,7 +34,7 @@ READINGS
 
 Introduction
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Anchor1)
+{{% resource_link fccaf6f0-fc4f-b072-3aa3-05a8291f11aa "See the Lecture Summary" "#Anchor1" %}}
 
 
 {{< tdclose >}}
@@ -50,7 +52,7 @@ no readings
 
 An Introduction to Stem Cells
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Anchor2)
+{{% resource_link fccaf6f0-fc4f-b072-3aa3-05a8291f11aa "See the Lecture Summary" "#Anchor2" %}}
 
 
 {{< tdclose >}}
@@ -78,7 +80,7 @@ Takahashi, K., and S. Yamanaka. "[Induction of Pluripotent Stem Cells from Mouse
 
 Molecular and Cellular Bases of Organ Development
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Anchor3)
+{{% resource_link fccaf6f0-fc4f-b072-3aa3-05a8291f11aa "See the Lecture Summary" "#Anchor3" %}}
 
 
 {{< tdclose >}}
@@ -106,7 +108,7 @@ Schuldiner, M., O. Yanuka, J. Eldor-Itskovitz, D. A. Melton, and N. Benvenisty. 
 
 Cloning of Somatic Cells by Nuclear Transfer
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Anchor4)
+{{% resource_link fccaf6f0-fc4f-b072-3aa3-05a8291f11aa "See the Lecture Summary" "#Anchor4" %}}
 
 
 {{< tdclose >}}
@@ -134,7 +136,7 @@ Wilmut, I., A. E. Schnieke, J. McWhir, A. J. Kind, and K. H. Campbell. "[Viable 
 
 Therapeutic Uses of Stem Cells
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Anchor5)
+{{% resource_link fccaf6f0-fc4f-b072-3aa3-05a8291f11aa "See the Lecture Summary" "#Anchor5" %}}
 
 
 {{< tdclose >}}
@@ -162,7 +164,7 @@ Bensinger, W. I., P. J. Martin, B. Storer, R. Clift, S. J. Forman, R. Negrin, A.
 
 Studies of Patients Treated with Stem Cells
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Anchor6)
+{{% resource_link fccaf6f0-fc4f-b072-3aa3-05a8291f11aa "See the Lecture Summary" "#Anchor6" %}}
 
 
 {{< tdclose >}}
@@ -190,7 +192,7 @@ Tamaki, H., and M. Matsuoka."[Donor-Derived T-cell Leukemia after Bone Marrow Tr
 
 Visit to the Massachusetts General Hospital
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Anchor7)
+{{% resource_link fccaf6f0-fc4f-b072-3aa3-05a8291f11aa "See the Lecture Summary" "#Anchor7" %}}
 
 
 {{< tdclose >}}
@@ -218,7 +220,7 @@ Fleming, H. E., V. Janzen, C. Lo. Celso, J. Guo, K. M. Leahy, H. M. Kronenberg, 
 
 Molecular Bases of Disease
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Anchor8)
+{{% resource_link fccaf6f0-fc4f-b072-3aa3-05a8291f11aa "See the Lecture Summary" "#Anchor8" %}}
 
 
 {{< tdclose >}}
@@ -246,7 +248,7 @@ Phelps, R. A., S. Chidester, S. Dehghanizadeh, J. Phelps, I. T. Sandoval, K. Rai
 
 _In vivo_ Regeneration of Tissues by Cell Transplantation
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Anchor9)
+{{% resource_link fccaf6f0-fc4f-b072-3aa3-05a8291f11aa "See the Lecture Summary" "#Anchor9" %}}
 
 
 {{< tdclose >}}
@@ -274,7 +276,7 @@ Strauer, B. E., M. Brehm, T. Zeus, M. Köstering, A. Hernandez, R. V. Sorg, G. K
 
 IPS Cells as Experimental Models of Neurological Disorders
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Anchor10)
+{{% resource_link fccaf6f0-fc4f-b072-3aa3-05a8291f11aa "See the Lecture Summary" "#Anchor10" %}}
 
 
 {{< tdclose >}}
@@ -302,7 +304,7 @@ Ohtaki H., J. H. Ylostalo, J. E. Foraker, A. P. Robinson, R. L. Reger, S. Shioda
 
 Bioartificial Organs
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Anchor11)
+{{% resource_link fccaf6f0-fc4f-b072-3aa3-05a8291f11aa "See the Lecture Summary" "#Anchor11" %}}
 
 
 {{< tdclose >}}
@@ -330,7 +332,7 @@ Humes, H. D., D. A. Buffington, S. M. MacKay, A. J. Funke, and W. F. Weitzel. "[
 
 Tissue Regeneration Driven by Growth Hormones
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Anchor12)
+{{% resource_link fccaf6f0-fc4f-b072-3aa3-05a8291f11aa "See the Lecture Summary" "#Anchor12" %}}
 
 
 {{< tdclose >}}
@@ -358,7 +360,7 @@ Friedlaender, G. E., C. R. Perry, J. D. Cole, S. D. Cook, G. Cierny, G. F. Musch
 
 Field Trip to Genzyme
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Anchor13)
+{{% resource_link fccaf6f0-fc4f-b072-3aa3-05a8291f11aa "See the Lecture Summary" "#Anchor13" %}}
 
 
 {{< tdclose >}}
@@ -376,7 +378,7 @@ no readings
 
 Student Paper Presentations and Discussions
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Anchor14)
+{{% resource_link fccaf6f0-fc4f-b072-3aa3-05a8291f11aa "See the Lecture Summary" "#Anchor14" %}}
 
 
 {{< tdclose >}}

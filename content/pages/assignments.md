@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides information on weekly assignments related to the
+  class discussions, an assignment to write an abstract for an article, and an assigned
+  oral presentation on regenerative medicine.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
